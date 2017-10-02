@@ -16,6 +16,7 @@ import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+//komentaras
 public class LoginActivity extends AppCompatActivity {
 
     private Button registerme, submit;
@@ -77,10 +78,6 @@ public class LoginActivity extends AppCompatActivity {
             {
                 String username = vardas.getText().toString();
                 String password2 = password.getText().toString();
-
-               /* Toast.makeText(getApplicationContext(),
-                        "username:"+username+"\n"+
-                        "password:"+password, Toast.LENGTH_SHORT).show();*/
 
                 boolean cancel = false;
                 View focusView = null;

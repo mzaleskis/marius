@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Mano Knygos</string>
+
+    <string name="search_name">Paieška</string>
+
+    <string name="register_name">Registracija</string>
+
+    <string name="login_username">Prisijungimo vardas</string>
+    <string name="login_password">Slaptažodis</string>
+    <string name="login_invalid_username">Blogai įvestas prisijungimo vardas</string>
+    <string name="login_invalid_password">Blogai įvestas slaptažodis</string>
+
+    <string name="register_username">Prisijungimo vardas</string>
+    <string name="register_password">Slaptažodis</string>
+    <string name="register_email">El. paštas</string>
+    <string name="register_submit_btn">Registruotis</string>
+
+
+    <string name="login_submit_btn">Prisijungti</string>
+    <string name="login_reg_btn">Registruotis</string>
+
+    <string name="hello_world">Sveikas Pasaulį</string>
+
+</resources>
